@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-"My LeetCode solutions in Java"
+"My LeetCode solutions in Java and Swift"
